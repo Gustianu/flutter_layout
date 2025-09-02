@@ -3,12 +3,15 @@ Praktikum 1: Membangun Layout di Flutter
 Langkah 1: Membuat Project Baru
 
 Pilih New Flutter Project pada halaman awal android Studio
+
 ![1.png](../screenshot/Tugas-1/praktikum-2/1.png)
 
 Pilih Flutter pada bagian kiri
+
 ![2.png](../screenshot/Tugas-1/praktikum-2/2.png)
 
 Ganti nama Project dan next
+
 ![3.png](../screenshot/Tugas-1/praktikum-2/3.png)
 
 Berikut hasilnya:
