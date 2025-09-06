@@ -88,3 +88,6 @@ Langkah 3: Terakhir, ubah menjadi ListView
 Pada langkah terakhir ini, atur semua elemen dalam ListView, bukan Column, karena ListView mendukung scroll yang dinamis saat aplikasi dijalankan pada perangkat yang resolusinya lebih kecil.
 <img width="314" height="285" alt="14" src="https://github.com/user-attachments/assets/d79e1f42-a972-4be5-98d6-6f6b30f2054f" />
 
+
+Berikut Hasilnya:
+<img width="372" height="654" alt="image" src="https://github.com/user-attachments/assets/3dc9146c-1ab9-4a33-a5e3-d22f5afbe49a" />
