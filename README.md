@@ -85,6 +85,7 @@ Anda dapat mencari gambar di internet yang ingin ditampilkan. Buatlah folder ima
 
 Langkah 2: Tambahkan gambar ke body
 Tambahkan aset gambar ke dalam body seperti berikut:
+
 <img width="251" height="129" alt="13" src="https://github.com/user-attachments/assets/75ef765e-6cf3-48d6-ae2e-d3f98c7bce2d" />
 
 
@@ -94,4 +95,5 @@ Pada langkah terakhir ini, atur semua elemen dalam ListView, bukan Column, karen
 
 
 Berikut Hasilnya:
+
 <img width="372" height="654" alt="image" src="https://github.com/user-attachments/assets/3dc9146c-1ab9-4a33-a5e3-d22f5afbe49a" />
