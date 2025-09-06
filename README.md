@@ -66,6 +66,7 @@ Praktikum 3: Implementasi text Section
 
 Langkah 1: Buat widget textSection
 tentukan bagian teks sebagai variabel. Masukkan teks ke dalam Container dan tambahkan padding di sepanjang setiap tepinya. Tambahkan kode berikut tepat di bawah deklarasi buttonSection:
+
 <img width="325" height="203" alt="10" src="https://github.com/user-attachments/assets/90c84e79-911d-4a98-9f7e-03d04837abe4" />
 
 
