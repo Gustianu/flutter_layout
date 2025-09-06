@@ -3,14 +3,17 @@ Praktikum 1: Membangun Layout di Flutter
 Langkah 1: Membuat Project Baru
 
 Pilih New Flutter Project pada halaman awal android Studio
+
 <img width="791" height="649" alt="1" src="https://github.com/user-attachments/assets/cc7c46a4-e210-420a-a872-6db4d72f4ed6" />
 
 
 Pilih Flutter pada bagian kiri
+
 <img width="786" height="720" alt="2" src="https://github.com/user-attachments/assets/36b2b501-62bd-4ec2-b220-643b56ec722f" />
 
 
 Ganti nama Project dan next
+
 <img width="783" height="714" alt="3" src="https://github.com/user-attachments/assets/a9311ebc-b4c7-4d30-9a45-f8f1ac9e5ad4" />
 
 
