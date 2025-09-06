@@ -49,3 +49,28 @@ Langkah 2: Buat Widget Button Selection
 Langkah 3: Tambah Button Section Ke Body
 ![alt text](9.png)
 
+
+Praktikum 3: Implementasi text Section
+
+Langkah 1: Buat widget textSection
+tentukan bagian teks sebagai variabel. Masukkan teks ke dalam Container dan tambahkan padding di sepanjang setiap tepinya. Tambahkan kode berikut tepat di bawah deklarasi buttonSection:
+![alt text](10.png)
+
+Langkah 2: Tambahkan text section ke body
+Tambahkan widget variabel textSection ke dalam body seperti berikut:
+![alt text](11.png)
+
+
+Praktikum 4: Implementasi image section
+
+Langkah 1: Siapkan aset gambar
+Anda dapat mencari gambar di internet yang ingin ditampilkan. Buatlah folder images di root project layout_flutter. Masukkan file gambar tersebut ke folder images, lalu set nama file tersebut ke file pubspec.yaml seperti berikut:
+![alt text](12.png)
+
+Langkah 2: Tambahkan gambar ke body
+Tambahkan aset gambar ke dalam body seperti berikut:
+![alt text](13.png)
+
+Langkah 3: Terakhir, ubah menjadi ListView
+Pada langkah terakhir ini, atur semua elemen dalam ListView, bukan Column, karena ListView mendukung scroll yang dinamis saat aplikasi dijalankan pada perangkat yang resolusinya lebih kecil.
+![alt text](14.png)

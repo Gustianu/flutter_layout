@@ -53,18 +53,35 @@ class MyApp extends StatelessWidget {
         _buildButtonColumn(color, Icons.share, 'SHARE'),
       ],
     );
+
+    Widget textSection = Container(
+      padding: const EdgeInsets.all(32),
+      child: const Text(
+        'Gunung Batu'
+            'Moh.Nuris Gustian Arrafi'
+            '362458302040',
+            softWrap: true,
+      ),
+    );
     return MaterialApp(
       title: 'Flutter layout: 362458302040_Moh.Nuris Gustian Arrafi',
       home: Scaffold(
         appBar: AppBar(
           title: const Text('Flutter layout demo'),
         ),
-          body: Column(
+            body: ListView(
             children: [
+              Image.asset(
+                'images/Mountain.png',
+                width: 600,
+                height: 240,
+                fit: BoxFit.cover,
+              ),
               titleSection,
               buttonSection,
+              textSection,
             ],
-          ),
+            ),
       ),
     );
   }
