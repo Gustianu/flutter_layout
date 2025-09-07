@@ -96,5 +96,6 @@ Pada langkah terakhir ini, atur semua elemen dalam ListView, bukan Column, karen
 
 Berikut Hasilnya:
 
-<img width="417" height="854" alt="image" src="https://github.com/user-attachments/assets/015aad2d-0e3c-4855-b926-67b13d4bbd6c" />
+<img width="387" height="831" alt="image" src="https://github.com/user-attachments/assets/10b878d5-6c7c-497c-9b83-7efa3b8f17e1" />
+
 
